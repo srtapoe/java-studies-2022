@@ -1,4 +1,4 @@
-package com.br.studies.java.desafios;
+package com.br.studies.java.desafios.senha;
 
 
 import lombok.Getter;
